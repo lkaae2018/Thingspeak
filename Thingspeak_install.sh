@@ -3,4 +3,4 @@ echo
 pip3 install thingspeak
 git clone http://github.com/mchwalisz/thingspeak.git
 export PATH=/home/pi/.loacl/bin:$PATH
-echo Nu er det muligt at lave programmer til Python3 samen med Thingspeak
+echo Nu er det muligt at lave programmer til Python3(Thonny) sammen med Thingspeak
